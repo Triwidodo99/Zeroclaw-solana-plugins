@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "plugins/token-risk-check",
+    "plugins/wallet-narrate",
+    "plugins/sns-resolve",
+    "plugins/portfolio-brief",
+    "plugins/lending-health",
+]
